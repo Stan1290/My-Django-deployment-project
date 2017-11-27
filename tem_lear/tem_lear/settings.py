@@ -29,7 +29,7 @@ SECRET_KEY = 'e9jh6_ga(j^n**i*x*r^aw1$t-l&(zn$58@-mirn=$5*03u%(j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['stan1290.pythonanywhere.com',]
 
 
 # Application definition
